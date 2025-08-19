@@ -1,4 +1,4 @@
-python==3.11
+python
 pandas
 numpy
 matplotlib
@@ -9,4 +9,5 @@ imbalanced-learn
 yellowbrick
 gdown
 streamlit
+
 
