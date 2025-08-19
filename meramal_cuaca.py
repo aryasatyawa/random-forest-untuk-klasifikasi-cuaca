@@ -101,11 +101,11 @@ from sklearn.model_selection import train_test_split, KFold, cross_val_score, Ra
 from imblearn.over_sampling import RandomOverSampler, SMOTE, BorderlineSMOTE, SVMSMOTE, ADASYN
 from imblearn.under_sampling import RandomUnderSampler, NearMiss, TomekLinks
 
-# Download datasets
-!gdown 1kcb-zkYu-UzAcLM2VfTBgZ8MsIvpdHlK
-!gdown 14mTR39Y6NhFfAwz6m7q3JjAKJPQnmFlI
-!gdown 1qRuVVEDUwjtZy_nzXfCOWXn5XdrhghHW
-!gdown 1C7Ly2ZLslpzRnoS1rYXEXFtCcAJ_Rldm
+# # Download datasets
+# !gdown 1kcb-zkYu-UzAcLM2VfTBgZ8MsIvpdHlK
+# !gdown 14mTR39Y6NhFfAwz6m7q3JjAKJPQnmFlI
+# !gdown 1qRuVVEDUwjtZy_nzXfCOWXn5XdrhghHW
+# !gdown 1C7Ly2ZLslpzRnoS1rYXEXFtCcAJ_Rldm
 
 """### Data Train"""
 
