@@ -6,5 +6,5 @@ seaborn
 scipy
 scikit-learn
 imbalanced-learn
-yellowbrick
 gdown
+streamlit
