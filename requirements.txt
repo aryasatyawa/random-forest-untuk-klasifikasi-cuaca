@@ -6,5 +6,5 @@ scipy
 scikit-learn
 imbalanced-learn
 gdown
+yellowbrick  
 streamlit
-
