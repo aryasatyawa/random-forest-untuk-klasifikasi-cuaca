@@ -486,7 +486,7 @@ def evaluate_classifier_performance(prediction, y_test):
     y_actual = pd.Series(np.array(y_test), name = "actual")
     y_pred = pd.Series(np.array(prediction), name = "prediction")
     df_confusion = pd.crosstab(y_actual, y_pred)
-    display(df_confusion)
+    print(df_confusion)
     print()
     print()
 
